@@ -11,3 +11,5 @@ Pimer Taller Bases de Datos 2
 # Primero tenemos un requerimiento no funcional que va direccionado a la seguridad donde las vista donde un  INNER JOIN entre dos tablas usuario y proveedor creamos una vistado del lado del proveedor, donde su funcion no tiene que ver un dato como es el caso del comprador para poder tener privacidad en su informacion.
 # Se creo como tal la vista con la informacion ID del usuario, su nombre que solo se veria para nuestro caso al proveedor donde usamos el INNer JOIN donde se filtro por el numero 2 para nosotros seria el 2 = proveedor.
 # En la segunda vista tambien es un requerimiento no funcional donde se mostrara la informacion del comprador donde estara esta vista disponible para como tal el cliente donde le mostrara el id del producto, donde tendra un indice para buscar sus articulos y direccion de envio, y para que sepa el cliente otro index para saber el estado de su tarjeta con el numero de esta.
+# Modelo>
+# https://drive.google.com/file/d/1oKjO3OjzPjDwaXdcOGk_byhpR8pSyYD8/view?usp=sharing
